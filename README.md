@@ -1,4 +1,4 @@
-# MobilityEye
+# HTML FORM builder from JSON
 ##### HTML Form Builder using JSON.
 - [x] The valid JSON data is input to render HTML page ([Sample JSON](https://github.com/DKB1990/JSONFormBuilder/blob/master/Sample.Json)).
 - [x] If data input is not valid JSON it will thow error.
